@@ -5,8 +5,8 @@
 
 
 
-[Site](https://climagro.netlify.app/)
-[Youtube](https://youtu.be/VDgl4adBzoY)
+Acesse o [Site](https://climagro.netlify.app/) para conhecer um pouco mais sobre o projeto.<br>
+Veja a apresentação no [Youtube](https://youtu.be/VDgl4adBzoY) sobre o projeto.
 
 
 
